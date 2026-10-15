@@ -1,0 +1,27 @@
+{
+  "chainId": 46630,
+  "board": "0x6Ac8998fbE8DC81f84344eed060D05244146B9eC",
+  "slots": {
+    "readme.featured": {
+      "path": "README.md",
+      "region": "readme.featured"
+    },
+    "readme.note": {
+      "path": "README.md",
+      "region": "readme.note"
+    },
+    "readme.banner": {
+      "path": "README.md",
+      "region": "readme.banner"
+    },
+    "file.banner": {
+      "path": "slots/banner.png"
+    },
+    "file.table": {
+      "path": "data/table.csv"
+    },
+    "file.page": {
+      "path": "docs/index.md"
+    }
+  }
+}

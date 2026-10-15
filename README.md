@@ -7,7 +7,9 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 
 ## Featured
 
-_The owner took this part back._
+<!-- slot:readme.featured -->
+_This slot is for sale._
+<!-- /slot -->
 
 ## Banner
 

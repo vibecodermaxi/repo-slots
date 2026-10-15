@@ -8,7 +8,7 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 ## Featured
 
 <!-- slot:readme.featured -->
-**[websitekit](https://github.com/vibecodermaxi/websitekit)**: this line was bought on chain and committed by the writer.
+_The owner wrote over this slot._
 <!-- /slot -->
 
 ## Banner

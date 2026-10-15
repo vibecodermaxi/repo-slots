@@ -1,0 +1,12 @@
+name: observe
+on: push
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Who pushed, and can this run read a secret
+        env:
+          PROBE: ${{ secrets.PROBE }}
+        run: |
+          echo "actor=${{ github.actor }} event=${{ github.event_name }} sha=${{ github.sha }}"
+          if [ -n "$PROBE" ]; then echo "SECRET-READABLE: a repository secret is readable in this run"; else echo "NO-SECRET"; fi

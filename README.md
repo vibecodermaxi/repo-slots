@@ -20,7 +20,14 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 ## A note
 
 <!-- slot:readme.note -->
-_This slot is for sale._
+> Math, a diagram and a table, all in one slot:\
+>\
+> $e^{i\\\\pi} + 1 = 0$\
+\
+```mermaid\
+flowchart LR\
+  buy[Buy on chain] --> edit[Edit hash] --> commit[Writer commits]\
+```
 <!-- /slot -->
 
 ## Whole files that are slots

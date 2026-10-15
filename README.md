@@ -14,7 +14,7 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 ## Banner
 
 <!-- slot:readme.banner -->
-![The banner slot](slots/banner.png)
+[![A holder's banner](slots/banner.png)](https://github.com/vibecodermaxi/websitekit)
 <!-- /slot -->
 
 ## A note

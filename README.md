@@ -20,7 +20,9 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 ## A note
 
 <!-- slot:readme.note -->
-The owner changed this back (3).
+> Written by whoever holds this slot, 2026-10-16T14:41:28.992Z.
+>
+> ![held by a stranger](pinned-images/b1abf34e20f0df23592b84453b740ee59c29e59786e5bc1b4707a3701bdd0e64.svg)
 <!-- /slot -->
 
 ## Whole files that are slots

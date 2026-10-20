@@ -7,8 +7,9 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 
 ## Featured
 
+<!-- slot:readme.featured -->
 **[websitekit](https://github.com/vibecodermaxi/websitekit)**: written on chain by its holder, committed by the GitHub App.
-
+<!-- /slot -->
 
 ## Banner
 

@@ -10,6 +10,7 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 <!-- slot:readme.featured -->
 **[websitekit](https://github.com/vibecodermaxi/websitekit)**: written on chain by its holder, committed by the GitHub App.
 <!-- /slot -->
+<!-- sale:readme.featured --><p><a href="https://pagemarkets.com/buy/0x204d7723068add4b19515b0fa05c822f41d3e729/readme.featured">Own this space on PageMarkets →</a></p><!-- /sale -->
 
 ## Banner
 
@@ -24,6 +25,7 @@ commits what they wrote, here, on `main`. The board and every slot are listed in
 >
 > ![held by a stranger](pinned-images/b1abf34e20f0df23592b84453b740ee59c29e59786e5bc1b4707a3701bdd0e64.svg)
 <!-- /slot -->
+<!-- sale:readme.note --><p><a href="https://pagemarkets.com/buy/0x204d7723068add4b19515b0fa05c822f41d3e729/readme.note">Own this space on PageMarkets →</a></p><!-- /sale -->
 
 ## Whole files that are slots
 
